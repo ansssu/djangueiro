@@ -1,8 +1,3 @@
 # Djangueiro
 
-Isto é um esqueleto para iniciar projetos Django com Postgresql.
-
-Para criar o projeto dentro do Docker:
-
-
-docker-compose up
+This project intended to be a simple boilerplate to create Django based webapps. It creates a skeleton project using Django and PostgreSQL conteinerized by Docker and Docker-Compose.
